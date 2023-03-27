@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'manish-pratik-ABC'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08BD84FBD37843B9BB7A5314D120B5CE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A28B8B13303A4686A97FB49D5DA21B04 }}
